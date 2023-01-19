@@ -1,6 +1,6 @@
 # Bienvenido a SeniorCompanion
 
-[![SeniorApp](https://cdn.discordapp.com/attachments/1008571057562714113/1065728393225719848/KhisKhanM_a_logo_for_an_App_Call_SeniorCompanion_For_care_of_th_1ea8a6f4-442b-43e6-be31-4645bd980c59.png "SeniorApp")](https://cdn.discordapp.com/attachments/1008571057562714113/1065728393225719848/KhisKhanM_a_logo_for_an_App_Call_SeniorCompanion_For_care_of_th_1ea8a6f4-442b-43e6-be31-4645bd980c59.png "SeniorApp")
+[![SeniorApp](https://cdn.discordapp.com/attachments/1008571057562714113/1065738544284442644/123.png "SeniorApp")](https://cdn.discordapp.com/attachments/1008571057562714113/1065738544284442644/123.png "SeniorApp")
 
 
 SeniorCompanion es una aplicación móvil diseñada para ayudar a adultos mayores y personas con discapacidades a mejorar su calidad de vida y mantenerse conectados con sus seres **queridos**. 
