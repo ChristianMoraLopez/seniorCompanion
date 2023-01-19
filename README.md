@@ -15,7 +15,7 @@ Características actuales
 
 
 Características futuras
--Llamadas y mensajes de voz de seguimiento
+- Llamadas y mensajes de voz de seguimiento
 - Integración con dispositivos de monitoreo de salud
 - Funciones de videollamada
 - Conectividad con servicios de atención médica
